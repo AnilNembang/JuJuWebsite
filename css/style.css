@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1{
+  margin: 0;
+  padding-top: 150px;
+  font-family: "Sacramento", serif;
+  font-size: 5.625rem;
+}
+
+p{
+  color: #68BFBF;
+  margin-top: 30px;
+}
+
+.profile-pic{
+  width: 25%;
+  margin-top: 50px;
+}
+
+.top-div{
+  position: relative;
+  background-color: #d4f8e8;
+}
+
+
+
+.bottom-div{
+  background-color: #1eb2a6;
+  padding: 50px 0 20px;
+
+}
+
+.top-cloud{
+  margin-top: 0;
+  position: absolute;
+  right:350px;
+  top: 80px;
+}
+
+.buttom-cloud{
+  position: absolute;
+  left: 350px;
+  top: 300px
+
+}
+
+.mountain{
+  padding: 0;
+  margin: 50px auto 0 auto;
+}
+
+.profile{
+  width: 50%;
+  text-align: center;
+  margin:10px auto 100px auto;
+}
+
+hr{
+  color: grey;
+  border-top: 5px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-style: dotted;
+  width: 50px;
+  height: 10px;
+  margin-top: 0;
+}
+
+.developer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coder-pic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+/* .coder-description{
+  clear: right;
+} */
+.getintouch{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #99C624;
+   font-family: serif;
+   font-size: 40px;
+   font-weight: 200;
+   padding: 24px;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: -3px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #178390;
+   background-image: -webkit-linear-gradient(top, #178390, #6B8BB0);
+   background-image: -moz-linear-gradient(top, #178390, #6B8BB0);
+   background-image: -ms-linear-gradient(top, #178390, #6B8BB0);
+   background-image: -o-linear-gradient(top, #178390, #6B8BB0);
+   background-image: linear-gradient(to bottom, #178390, #6B8BB0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.copyright{
+
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+  color:#d4f8e8;
+}
+.getintouch{
+  margin: 100px auto 20px auto;
+}
